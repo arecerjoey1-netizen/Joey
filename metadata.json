@@ -1,0 +1,6 @@
+{
+  "name": "WhisperPulse - Encrypted Messenger",
+  "description": "WhatsApp-style messaging with end-to-end encrypted voice calls, disappearing media, biometric security, real-time sync, and Google Workspace integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
